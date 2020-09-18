@@ -1,6 +1,14 @@
-### Hi there 👋
+#Welcome!
+I'm a JavaScript developer and highschool student.
+
+I'm currently making automated trading solutions for Team Fortress 2.
+
+I write Java as well.
+
 
 <!--
+### Hi there 👋
+
 **SeizedThoughts/SeizedThoughts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
