@@ -1,4 +1,4 @@
-#Welcome!
+# Welcome!
 I'm a JavaScript developer and highschool student.
 
 I'm currently making automated trading solutions for Team Fortress 2.
