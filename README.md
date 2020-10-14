@@ -1,5 +1,5 @@
 # Welcome!
-I'm a JavaScript developer and highschool student.
+I'm a JavaScript developer and student.
 
 I'm currently making automated trading solutions for Team Fortress 2.
 
