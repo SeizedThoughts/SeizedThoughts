@@ -3,7 +3,7 @@ I'm a JavaScript developer and student.
 
 I'm currently making automated trading solutions for Team Fortress 2.
 
-I write Java as well.
+I'm currently learning CUDA for various applications of parallel compute.
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=seizedthoughts&show_icons=true&count_private=true" alt="GitHub stats" width="50%" />
